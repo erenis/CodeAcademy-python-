@@ -1,0 +1,9 @@
+def fizz_count(x):
+    count = 0
+    for pp in x:
+        if pp == "fizz":
+            count += 1
+    print count
+    return count
+    
+fizz_count(["fizz","cat","fizz"])
