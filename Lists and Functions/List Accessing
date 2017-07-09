@@ -1,0 +1,6 @@
+n = [1, 3, 5]
+
+# Add your code below
+print n[1]
+
+#question, when do you use [] vs ()... [] is strickly for lists and () are to call arguments for functions.
