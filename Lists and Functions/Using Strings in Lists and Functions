@@ -1,0 +1,10 @@
+n = ["Michael", "Lieberman"]
+# Add your function here
+def join_strings(words):
+    results = ""
+    for i in range(len(words)):
+        results += words[i] 
+    return results 
+
+
+print join_strings(n)
