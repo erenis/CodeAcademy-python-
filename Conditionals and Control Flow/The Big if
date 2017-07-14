@@ -1,0 +1,14 @@
+# Make sure that the_flying_circus() returns True
+def the_flying_circus():
+    if 6 == 5 and 0 == 2:    # Start coding here!
+        return False
+        # Don't forget to indent
+        # the code inside this block!
+    elif 6 == 6:
+        return True
+        # Keep going here.
+        # You'll want to add the else statement, too!
+    else:
+        return 'You fucked up'
+        
+    print the_flying_circus()
